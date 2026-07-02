@@ -197,12 +197,12 @@ SkillKind -> Kind
   Sanae must be in the frontline for this skill to activate.
   Learn Level: Lv. 60
   ```
-  - [RESTORED|Wriggle|FMW3] Fixed Stars on Earth L1/2
+  - [RESTORED|Wriggle|FMW3] Fixed Stars on Earth L1/2/3
   ```
   All squares in the 1/2/3-square radius around the unit are set to Day terrain.
   The terrain modifier also affects Wriggle's partner.
   Does not affect unit and weapon Night Ratings that are at least S.
-  Learn Level: L1: Lv. 1, L2: Lv.30
+  Learn Level: L1: Lv. 1, L2: Lv. 30, L3: Lv. 50
   ```
   - [RESTORED|Remilia|FMW3] Devil's Contract - Remilia
   ```
