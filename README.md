@@ -1,4 +1,4 @@
-# fmw_patches
+# FMW Patches
 WIP Patch Repository for Fantasy Maiden Wars - DREAM OF THE STRAY DREAMER -
 
 Latest modding version: **1.2.4.1b**
@@ -6,7 +6,7 @@ Latest modding version: **1.2.4.1b**
 # Instructions
 1. Download [Delta Patcher](https://www.romhacking.net/utilities/704/) to apply the `*.xdelta` patches in this repo. Each folder corresponds to the original version of the game; download the patches in the folder that apply to your current game version.
 2. Download the mods folder and place it inside your user FMW app data folder for `fmw_dosd` (`C:\Users\<YOUR_USERNAME>\AppData\Local\fmw_dosd\`). The game will read this folder to access all json files that contain the EXE mods.
-3. (Optional, but very helpful) Download the addOns folder and place it inside your user FMW app data folder for `fmw_dosd` (`C:\Users\<YOUR_USERNAME>\AppData\Local\fmw_dosd\`). The addOns for each data file allow you to add new json structure entries that correspond to individual spreadsheet rows for each data file. Basically, this lets you patch and add in-memory data file structures with your own custom fields.
+3. Download the addOns folder and place it inside your user FMW app data folder for `fmw_dosd` (`C:\Users\<YOUR_USERNAME>\AppData\Local\fmw_dosd\`). The addOns for each data file allow you to add new json structure entries that correspond to individual records for each data file. Basically, this lets you patch and add in-memory data file structures with your own custom fields. Many of the advanced mods in this repo utilize the addOns system in tandem with the `*.xdelta` patches to implement more complex features.
 4. Browse your local files for your installation of FMWCB - DSoD from Steam.
 5. Make a copy of your original `data.win` file; rename the old file to `data_old.win`.
 6. In Delta Patcher, select the `*.xdelta` patch to apply to your `data.win` file. Make sure the output file is renamed to `data.win` and its destination is the same folder as the `fmw_dsod.exe`.
@@ -20,6 +20,11 @@ The new modding UI interface can be accessed from the GlobalMenu (where the manu
 - Future mod loader implementation
 - Plugins
 - Improve Patching Framework
+
+# Troubleshooting
+If you encounter problems with the patches, open an issue in this repo. In the issue, describe the bug scenario and any reported exception/error message to greatly ease debugging and expedite resolution.
+
+For further troubleshooting and/or discussing mods, you can reach out in the `#fmw-modding` channel in the [unofficial FMW Discord server](https://discord.gg/q7tpedHj68)!
 
 # Patch Information
 This repository contains xdelta binary patches.
