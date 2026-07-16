@@ -1,0 +1,1 @@
+{"Value":false,"Name":"wpName","Desc":"Revert to displaying WP instead of Ex-P\nand WP instead of EX throughout\nvarious text displays in the EXE.\n\nSet the Active field to \"true\" for the\nRestore_WPName addOn in data5-4\/Data_Text\nto replace the rest of the EX database references","Type":0.0}

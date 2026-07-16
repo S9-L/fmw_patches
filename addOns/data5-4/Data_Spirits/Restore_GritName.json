@@ -1,0 +1,1 @@
+{"Data_Spirits":{"Active":false,"AddOn":[{"Enabled":true,"Replace":true,"ID":"FUKUTSU","Name":"Grit","Sprite":"fukutsu","SE":"fukutsu","Target":"SELF","Pair":0,"Duration":"Next Damage","isBattle":1,"Text":"Reduces damage of the next hit taken to 10.\n(Grazes are not considered to be hits.)"}]}}

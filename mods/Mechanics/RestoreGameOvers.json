@@ -1,0 +1,1 @@
+{"Value":false,"Name":"gameOverOn","Desc":"Restore tracking for Game Overs throughout\na chapter by disabling the GO counter from\nresetting to 0 every time a chapter is restarted","Type":0.0}

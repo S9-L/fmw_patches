@@ -1,0 +1,1 @@
+{"Data_Skills":{"Active":true,"AddOn":[{"Enabled":true,"Kind":2,"ID":"TELEPORT","EF":"MOVE_THRU","Name":"Teleport","Icon":"Move","MaxLevel":0,"VAL1":"","VAL2":"","VAL3":"","Count":"","Target":"","Text":"The unit can ignore movement penalties from terrain.\nIn addition, the unit can move through any other unit.","PPCost":0,"PPCostAdd":0}]}}

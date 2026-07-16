@@ -1,0 +1,1 @@
+{"Max":99.0,"Min":0.0,"Desc":"Override the character level cap\n(Set to 0 to restore default level caps by arc)\nMin:0, Max:99\nReload your saves for the updated level cap\nto apply.","Value":0,"Name":"overrideLevelCap","Type":2.0}

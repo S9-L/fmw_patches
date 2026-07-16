@@ -1,0 +1,1 @@
+{"Min":4,"Desc":"Modify the max number of saves that the game\nwill scan up to in the save folder.\nRestart the game for the updated max saves\nto apply\n(Set to 4 for default max of 200)\nMin:4, Max:1000","Value":4,"Name":"modifyMaxSaves","Type":2.0,"Max":1000.0}

@@ -1,0 +1,1 @@
+{"Data_Skills":{"Active":true,"AddOn":[{"Enabled":true,"Kind":2,"ID":"PHOENIX_CLAW","EF":"PHOENIX_CLAW","Name":"Phoenix Claw","Icon":"Damage","MaxLevel":3,"VAL1":"|10|15|20|","VAL2":"","VAL3":"","Count":"","Target":"","Text":"Increases damage dealt by CQB weapons by +<VAL1>%.\nDecreases damage dealt by RNG weapons by -<VAL1>%.","PPCost":0,"PPCostAdd":0}]}}

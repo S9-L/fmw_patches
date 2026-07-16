@@ -1,0 +1,1 @@
+{"Value":false,"Name":"noAutoLevel","Desc":"Disable auto leveling for characters already\npresent in the unit roster when normally\nprogressing through the game or advancing\nchapters through the Debug Menu Stage Select\nor loading saves while the Debug Menu is enabled\n\nNewly added characters will still be auto leveled\naccording to the respective chapter number","Type":0.0}

@@ -1,0 +1,1 @@
+{"Value":false,"Name":"routeB_ON","Desc":"Bypass chapter transition checks to force the game\nto always enter the Route Selection event\nafter completing Chapter 70.\nThis enables the player to enter Route B even\non a fresh NG0 playthrough.\n\nMay affect item distributions and Points\/WP\/PP\nresource gains, back up your saves accordingly","Type":0.0}

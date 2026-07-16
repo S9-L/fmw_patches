@@ -1,0 +1,1 @@
+{"Value":false,"Name":"SEAMFix","Desc":"Fix Stale Entity Attack Manipulation bug\nby safely handling the front unit pointer when\nentering the unit spirit menu from Spirit Search","Type":0.0}

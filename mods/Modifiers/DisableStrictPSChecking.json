@@ -1,0 +1,1 @@
+{"Value":false,"Name":"disablePSInd","Type":0.0,"Desc":"Disable the internal logic for only checking\nselect Personal Skill effects in the 8th skill slot\n\nThis will allow certain PSes to apply their effects\neven when set as a general skill"}

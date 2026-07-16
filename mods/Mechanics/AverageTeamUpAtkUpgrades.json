@@ -1,0 +1,1 @@
+{"Value":false,"Name":"avgCombUpg","Desc":"Average Team-Up attack weapon upgrade values\namong the partner units participating in the attack\nlike in OG CB\/FMW\n\nFor example, if Reimu has 6 weapon upgrades,\nthen a 2-unit attack like\nTrichromatic Lotus Butterfly would only be boosted\nby an equivalent 6/2=3 weapon upgrades\nwhen the averaging logic is applied.","Type":0.0}

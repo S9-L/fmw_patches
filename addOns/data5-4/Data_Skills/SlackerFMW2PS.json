@@ -1,0 +1,1 @@
+{"Data_Skills":{"Active":true,"AddOn":[{"Enabled":true,"Kind":2,"ID":"TAKURAKU2","EF":"TAKURAKU2","Name":"Slacker (FMW2)","Icon":"Cure","MaxLevel":0,"VAL1":"|CURE_HP_L|","VAL2":"|50|","VAL3":"","Count":"","Target":"","Text":"Unit gains HP Regen (L)/ but reduces her EXP and PP gain by -<VAL2>%.","PPCost":0,"PPCostAdd":0}]}}

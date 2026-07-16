@@ -1,0 +1,1 @@
+{"Value":"savedata\/","Name":"saveLoc","Desc":"Change the folder location where the game will\nscan and read saves from\nRestart the game for the updated save location\nto apply\n(Default save location name is savedata\/)\n\nDue to the GMS sandbox, the save folder must be\nlocated within the APPDATA\/fmw_dosd folder\nto have writeable permissions","Type":1.0}

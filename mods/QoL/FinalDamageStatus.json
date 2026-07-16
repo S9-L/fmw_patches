@@ -1,0 +1,1 @@
+{"Value":false,"Name":"finalDamageStatus","Desc":"Display projected Final Damage number in the\ndamage calculation UI\n\nNOTE: The projected damage is calculated before\ndynamic battle updates such as\nreactions\/critical hits\/power gains\/spirit use\/etc.","Type":0.0}

@@ -1,0 +1,1 @@
+{"Data_Skills":{"Active":true,"AddOn":[{"Enabled":true,"Kind":2,"ID":"SURVIVE","EF":"SURVIVE","Name":"Unyielding Spirit","Icon":"Guard","MaxLevel":0,"VAL1":"","VAL2":"","VAL3":"","Count":"|1|","Target":"PASSIVE","Text":"If an enemy attack will reduce their HP to 0, the unit will survive with 10 HP.\n(<COUNT> uses.)","PPCost":0,"PPCostAdd":0}]}}
