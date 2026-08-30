@@ -1,3 +1,14 @@
+# 1.2.4.2 JPN Release
+## Features
+- Released 1st modding patch for the 1.2.4 JPN version.
+- The `FMWCB-1.2.4.2-JPN` patch and future patches will have feature parity with the modded ENG version. However, at this time, certain text elements and dialog may still appear in English because they were initially created for the modded English version.
+  - These include, but are not limited to:
+    - Various battle dialog like the restored Kedama/Evil Eye lines
+    - UI textboxes/info
+    - Personal Skills
+    - and more
+- I am not fluent in Japanese, and I would rather not machine translate text into another language that I cannot personally verify. In future updates for the JPN modded version, I will gradually move internal string references from the binary into the `Data_Text` addOns to make it easier for more qualified JPN localizers to translate.
+
 # 1.2.4.2 Release
 ## Major Features/Tool Releases
 - The Fantasy Maiden Wars Save Manager tool has been released, allowing any player to modify and fine-tune their local Steam/Switch save files to their liking. Download the release from this new GitHub repo: https://github.com/S9-L/FMWSaveManager
