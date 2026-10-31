@@ -1,0 +1,1 @@
+{"Value":false,"Name":"fgMapEffects","Type":0.0,"Desc":"Restore functionality to display the\nforeground effects in chapter maps\n\nRequires the chapter map foreground effect files\nhosted on Gamebanana under the title \"Restored\nChapter Map/Battle Foreground Effects\".\n\nRequires LayeredFS to be enabled to load\nthe foreground graphic files in modData/data7"}

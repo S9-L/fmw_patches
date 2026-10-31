@@ -1,0 +1,1 @@
+{"Name":"layeredFSLoc","Value":"modData\/","Desc":"Change the folder location to custom load\ndata file resources through LayeredFS\n(Default location is modData\/)\n\nDue to the GMS sandbox, the folder must be\nlocated within the APPDATA\/fmw_dosd folder\nto have writeable permissions","Type":1.0}

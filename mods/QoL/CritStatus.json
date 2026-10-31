@@ -1,0 +1,1 @@
+{"Value":false,"Name":"critStatus","Type":0.0,"Desc":"Display critical chance in the\ndamage calculation UI\n\nNOTE: The projected critical chance is calculated\nbefore dynamic battle updates from\nPrevail\/power gains\/spirit use\/etc."}
