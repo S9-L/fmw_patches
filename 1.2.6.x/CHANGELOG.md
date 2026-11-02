@@ -156,6 +156,8 @@ Replace:
 
   - Once you select "Save Config", your newly configured keyboard controls will be saved to a `key_config.json` file in the currently set save folder (usually it's `fmw_dosd/savedata/` if you haven't changed your save folder location). This file will be read at game startup to override the vanilla keyboard controls with your custom keyboard configuration.
 
+  - Virtual Key Constant to Key Name mapping sourced from here: https://gist.github.com/attic-stuff/382c0aa89187afd043cf45890c0661f9
+
 - Restore weapon paging functionality that was previously present in FMW4. As a refresher, units with more than 8 weapons had extra pages dedicated to displaying and selecting the unit's weapons. This was removed in CB so that all weapons could be displayed on a single page, but not all of the internal paging logic was removed. Because of this, there were certain buggy interactions with weapon indexing for units that had more than 8 weapons. A previous modding feature temporarily fixed this by expanding the page weapon limit to 13; however, weapon paging bugs still remained if units were given more than 13 weapons.
 
   - With the new modding release, paging functionality has been re-implemented in the unit weapon status screen. The total weapon list is now subdivided into mutliple pages that can display up to 13 weapons at once. The player can then flip through these pages using directional inputs to view each page. In addition, selecting a weapon on a given page will always correspond to the correct internal weapon index now, so this should fix previous bugs that occurred due to mismatched weapon indices.
