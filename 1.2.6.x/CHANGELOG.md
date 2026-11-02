@@ -1,3 +1,11 @@
+# 1.2.6.1a ENG/JPN Hotfix
+## TL;DR Repatch your 1.2.6 data.win to the 1.2.6.1a hotfix, and download the missing `addOns/data4/Meko/` folder for Mehko's Thunder Ram MAP attack dialog, if desired.
+
+- Fix gamebreaking bug where the game would crash if a MAP attack killed a unit that had no dialog after being defeated. The instance variable tracking the previous dialog index position was not reset to -1 after the new multi-line dialog handling for MAP attacks. The -1 value indicates that there were no previous lines in a dialog group. However, this variable held a nonnegative value from the previous handling and was carried over to the dialog selection logic for other units on the chapter map, including the cases where dialog should default to nothing.
+  - Since the previous dialog index is used to search for dialog that contains multiple lines, the game assumes a multi-line dialog group exists when the dialog selection function is supplied with a nonnegative index. Naturally, because units without defeat dialog don't have any lines, this would crash the game if the game tried to read dialog from nonexistent data.
+
+- Add missing dialog files for Mehko's Thunder Ram MAP attack. Download the `addOns/data4/Meko/` folder and place it in your local `fmw_dosd/addOns/data4` folder to properly see it in-game.
+
 # 1.2.6.1 ENG/JPN Release
 ## IMPORTANT INSTRUCTIONS, READ THIS FIRST BEFORE INSTALLING! ##
 0. These instructions are important if you want to keep your existing addOns changes without them being overwritten. Otherwise, if you want a fresh install of 1.2.6.1, back up your previous addOns and mods folders, then download the latest addOns and mods folders in this repo and place them in your `fmw_dosd` folder. You can then apply the respective 1.2.6.1 patch depending on your localization (ENG or JPN) to your `data.win` file. You won't need to perform the rest of the steps here if a fresh install is all that's needed.
