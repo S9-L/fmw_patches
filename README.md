@@ -1,7 +1,7 @@
 # FMW Patches
 Patch Repository for Fantasy Maiden Wars - DREAM OF THE STRAY DREAMER -
 
-Latest modding version: **1.2.6.1**
+Latest modding version: **1.2.6.1a**
 
 See the [CHANGELOG](./1.2.6.x/CHANGELOG.md) for updates on the most recent version.
 
